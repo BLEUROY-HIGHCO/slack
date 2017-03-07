@@ -1,0 +1,4 @@
+CL\Slack\Payload\FilesDeletePayload:
+    properties:
+        file:
+            type: string

@@ -16,3 +16,5 @@ CL\Slack\Model\Attachment:
             type: ArrayCollection<CL\Slack\Model\AttachmentField>
         mrkdwnIn:
             type: array
+        titleLink:
+            type: string

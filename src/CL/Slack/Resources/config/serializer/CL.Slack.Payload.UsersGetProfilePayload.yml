@@ -1,0 +1,4 @@
+CL\Slack\Payload\UsersGetProfilePayload:
+    properties:
+        user:
+            type: string

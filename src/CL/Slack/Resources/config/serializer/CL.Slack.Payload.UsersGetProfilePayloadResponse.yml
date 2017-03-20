@@ -1,0 +1,4 @@
+CL\Slack\Payload\UsersGetProfilePayloadResponse:
+    properties:
+        profile:
+            type: CL\Slack\Model\UserProfile
